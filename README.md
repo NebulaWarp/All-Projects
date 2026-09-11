@@ -1,4 +1,6 @@
-## I am a Duke 4+1 MEng Senior majoring in BME. I enjoy making video games that are used in therapeutic and medical contexts.
+## Ballade No. 5: Keyboard rhythm game used to train finger dexterity for hand rehabilitation
+## NeuroTech: First-person-shooter game using a Leap motion sensor that moves camera/shoots gun in tandem with hand motions; used for cerebral palsy rehabilitation
+## Automated image processing for ImageJ quantifying pericyte coverage and live-dead cell ratio
 
 <!--
 **NebulaWarp/NebulaWarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

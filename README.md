@@ -1,7 +1,7 @@
-## Ballade No. 5:
+## Ballade No. 5
 Keyboard rhythm game made in Unity (C#) used to train finger dexterity for hand rehabilitation
 Script only 
-## NeuroTech First-person-shooter game:
+## NeuroTech First-person-shooter game
 Uses a Leap motion sensor that moves camera/shoots gun in tandem with hand motions; used for cerebral palsy rehabilitation
 Full Unity project able to be uploaded and played in-engine
 ## Automated image processing for ImageJ 

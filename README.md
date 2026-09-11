@@ -1,12 +1,12 @@
 ## Ballade No. 5
-Keyboard rhythm game made in Unity (C#) used to train finger dexterity for hand rehabilitation
-Script only 
+Keyboard rhythm game made in Unity (C#) used to train finger dexterity for hand rehabilitation.\
+Script only.
 ## NeuroTech First-person-shooter game
-Uses a Leap motion sensor that moves camera/shoots gun in tandem with hand motions; used for cerebral palsy rehabilitation
-Full Unity project able to be uploaded and played in-engine
+Uses a Leap motion sensor that moves camera/shoots gun in tandem with hand motions; used for cerebral palsy rehabilitation.\
+Full Unity project able to be uploaded and played in-engine.
 ## Automated image processing for ImageJ 
-Quantifying pericyte coverage and live-dead cell ratio
-.ijm files downloadable and able to use in ImageJ
+Quantifying pericyte coverage and live-dead cell ratio.\
+.ijm files downloadable and able to use in ImageJ.
 
 <!--
 **NebulaWarp/NebulaWarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

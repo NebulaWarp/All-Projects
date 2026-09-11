@@ -1,4 +1,4 @@
-## Hi there 👋
+## I am a Duke 4+1 MEng Senior majoring in BME. I enjoy making video games that are used in therapeutic and medical contexts.
 
 <!--
 **NebulaWarp/NebulaWarp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
